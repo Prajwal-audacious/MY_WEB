@@ -1,0 +1,28 @@
+.foot{
+      height: 4rem;
+}
+
+.list{
+     display: flex;
+     align-items: center;
+     /* background-color: black; */
+     
+     
+}
+
+.nav-item{
+      list-style: none;
+      text-decoration: none;
+      margin: 0 2rem;
+      color: white;
+      font-size: large;
+      font-weight: 500;
+      display: flex;
+     
+    
+      
+}
+
+.navbar-brand{
+      font-weight: 700;
+}
